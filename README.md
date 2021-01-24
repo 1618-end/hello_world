@@ -1,2 +1,2 @@
 # hello_world
-First repository
+Just following the Github guide
